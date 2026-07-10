@@ -1,0 +1,312 @@
+{
+ "ambient": [
+  {
+   "f": "dppt-route-209-day.mp3",
+   "l": "DPPt - Route 209 Day"
+  },
+  {
+   "f": "frlg-pallet-town.mp3",
+   "l": "FRLG - Pallet Town"
+  },
+  {
+   "f": "frlg-vermilion-city.mp3",
+   "l": "FRLG - Vermilion City"
+  },
+  {
+   "f": "gsc-national-park.mp3",
+   "l": "GSC - National Park"
+  },
+  {
+   "f": "hgss-ecruteak-city.mp3",
+   "l": "HGSS - Ecruteak City"
+  },
+  {
+   "f": "rby-cerulean-city.mp3",
+   "l": "RBY - Cerulean City"
+  },
+  {
+   "f": "rby-lavender-town.mp3",
+   "l": "RBY - Lavender Town"
+  },
+  {
+   "f": "rse-littleroot-town.mp3",
+   "l": "RSE - Littleroot Town"
+  },
+  {
+   "f": "xy-lumiose-city.mp3",
+   "l": "XY - Lumiose City"
+  }
+ ],
+ "contest": [
+  {
+   "f": "bw-musical-hall.mp3",
+   "l": "BW - Musical Hall"
+  },
+  {
+   "f": "dppt-super-contest.mp3",
+   "l": "DPPt - Super Contest"
+  },
+  {
+   "f": "oras-contest-lobby.mp3",
+   "l": "ORAS - Contest Lobby"
+  },
+  {
+   "f": "rby-rocket-game-corner.mp3",
+   "l": "RBY - Rocket Game Corner"
+  },
+  {
+   "f": "rse-lilycove-city-pacifidlog-town.mp3",
+   "l": "RSE - Lilycove City - Pacifidlog Town"
+  },
+  {
+   "f": "sm-festival-plaza-day.mp3",
+   "l": "SM - Festival Plaza Day"
+  },
+  {
+   "f": "xy-it-s-a-pokemon-battle.mp3",
+   "l": "XY - It s a Pokémon Battle"
+  }
+ ],
+ "default": [
+  {
+   "f": "bw-battle-trainer.mp3",
+   "l": "BW - Battle Trainer"
+  },
+  {
+   "f": "colosseum-normal-battle.mp3",
+   "l": "Colosseum - Normal Battle"
+  },
+  {
+   "f": "hgss-battle-trainer-johto-version.mp3",
+   "l": "HGSS - Battle Trainer Johto Version"
+  },
+  {
+   "f": "rby-battle-trainer-battle.mp3",
+   "l": "RBY - Battle Trainer Battle"
+  },
+  {
+   "f": "ranger-wild-pokemon-battle.mp3",
+   "l": "Ranger - Wild Pokémon Battle"
+  },
+  {
+   "f": "stadium-battle-pika-cup-1.mp3",
+   "l": "Stadium - Battle Pika Cup 1"
+  }
+ ],
+ "survival": [
+  {
+   "f": "02-desperate-battle.mp3",
+   "l": "02. Desperate Battle"
+  },
+  {
+   "f": "04-suffering-other.mp3",
+   "l": "04. Suffering Other"
+  },
+  {
+   "f": "1-21-nameless-king.mp3",
+   "l": "1-21 Nameless King"
+  },
+  {
+   "f": "1-24-soul-of-cinder.mp3",
+   "l": "1-24 Soul Of Cinder"
+  },
+  {
+   "f": "3-21-morgott-the-omen-king.mp3",
+   "l": "3-21. Morgott, the Omen King"
+  },
+  {
+   "f": "3-33-dragonlord-placidusax.mp3",
+   "l": "3-33. Dragonlord Placidusax"
+  }
+ ],
+ "gym": [
+  {
+   "f": "b2w2-battle-ghetsis.mp3",
+   "l": "B2W2 - Battle Ghetsis"
+  },
+  {
+   "f": "bw-battle-ghetsis.mp3",
+   "l": "BW - Battle Ghetsis"
+  },
+  {
+   "f": "colosseum-final-battle.mp3",
+   "l": "Colosseum - Final Battle"
+  },
+  {
+   "f": "dppt-battle-champion.mp3",
+   "l": "DPPt - Battle Champion"
+  },
+  {
+   "f": "hgss-battle-champion.mp3",
+   "l": "HGSS - Battle Champion"
+  },
+  {
+   "f": "sm-battle-lusamine.mp3",
+   "l": "SM - Battle Lusamine"
+  },
+  {
+   "f": "swsh-battle-champion-leon.mp3",
+   "l": "SwSh - Battle Champion Leon"
+  },
+  {
+   "f": "xd-shadow-lugia-s-theme.mp3",
+   "l": "XD - Shadow Lugia s Theme"
+  },
+  {
+   "f": "xy-battle-lysandre.mp3",
+   "l": "XY - Battle Lysandre"
+  }
+ ],
+ "pvp": [
+  {
+   "f": "b2w2-battle-rival.mp3",
+   "l": "B2W2 - Battle Rival"
+  },
+  {
+   "f": "bw-battle-n.mp3",
+   "l": "BW - Battle N"
+  },
+  {
+   "f": "dppt-battle-team-galactic-boss.mp3",
+   "l": "DPPt - Battle Team Galactic Boss"
+  },
+  {
+   "f": "hgss-battle-rival.mp3",
+   "l": "HGSS - Battle Rival"
+  },
+  {
+   "f": "oras-battle-lorekeeper-zinnia.mp3",
+   "l": "ORAS - Battle Lorekeeper Zinnia"
+  },
+  {
+   "f": "sm-battle-gladion.mp3",
+   "l": "SM - Battle Gladion"
+  },
+  {
+   "f": "swsh-battle-bede.mp3",
+   "l": "SwSh - Battle Bede"
+  },
+  {
+   "f": "xy-az.mp3",
+   "l": "XY - AZ"
+  }
+ ],
+ "trainer": [
+  {
+   "f": "b2w2-battle-trainer-battle.mp3",
+   "l": "B2W2 - Battle Trainer Battle"
+  },
+  {
+   "f": "bw-battle-trainer.mp3",
+   "l": "BW - Battle Trainer"
+  },
+  {
+   "f": "dppt-battle-trainer-battle.mp3",
+   "l": "DPPt - Battle Trainer Battle"
+  },
+  {
+   "f": "frlg-battle-trainer.mp3",
+   "l": "FRLG - Battle Trainer"
+  },
+  {
+   "f": "gsc-battle-trainer-battle-johto.mp3",
+   "l": "GSC - Battle Trainer Battle - Johto"
+  },
+  {
+   "f": "hgss-battle-trainer-johto-version.mp3",
+   "l": "HGSS - Battle Trainer Johto Version"
+  },
+  {
+   "f": "rby-battle-trainer-battle.mp3",
+   "l": "RBY - Battle Trainer Battle"
+  },
+  {
+   "f": "rse-trainer-battle.mp3",
+   "l": "RSE - Trainer Battle"
+  },
+  {
+   "f": "sm-battle-trainer.mp3",
+   "l": "SM - Battle Trainer"
+  },
+  {
+   "f": "swsh-battle-trainer.mp3",
+   "l": "SwSh - Battle Trainer"
+  },
+  {
+   "f": "xy-battle-trainer-battle.mp3",
+   "l": "XY - Battle Trainer Battle"
+  }
+ ],
+ "training": [
+  {
+   "f": "bw-battle-subway.mp3",
+   "l": "BW - Battle Subway"
+  },
+  {
+   "f": "hgss-bicycle.mp3",
+   "l": "HGSS - Bicycle"
+  },
+  {
+   "f": "hgss-pokeathlon-in-the-pokeathlon-dome.mp3",
+   "l": "HGSS - Pokéathlon - In the Pokéathlon Dome"
+  },
+  {
+   "f": "rby-bicycle.mp3",
+   "l": "RBY - Bicycle"
+  },
+  {
+   "f": "rse-battle-frontier.mp3",
+   "l": "RSE - Battle Frontier"
+  },
+  {
+   "f": "sm-trainers-school.mp3",
+   "l": "SM - Trainers School"
+  },
+  {
+   "f": "stadium-gym-leader-castle.mp3",
+   "l": "Stadium - Gym Leader Castle"
+  }
+ ],
+ "wild": [
+  {
+   "f": "bw-battle-wild-pokemon.mp3",
+   "l": "BW - Battle Wild Pokemon"
+  },
+  {
+   "f": "dppt-battle-wild-pokemon.mp3",
+   "l": "DPPt - Battle Wild Pokémon"
+  },
+  {
+   "f": "frlg-battle-wild-pokemon.mp3",
+   "l": "FRLG - Battle Wild Pokémon"
+  },
+  {
+   "f": "gsc-battle-wild-pokemon-johto-day.mp3",
+   "l": "GSC - Battle Wild Pokémon - Johto - Day"
+  },
+  {
+   "f": "hgss-battle-wild-pokemon-johto-version.mp3",
+   "l": "HGSS - Battle Wild Pokémon Johto Version"
+  },
+  {
+   "f": "rby-battle-wild-pokemon.mp3",
+   "l": "RBY - Battle Wild Pokémon"
+  },
+  {
+   "f": "rse-wild-battle.mp3",
+   "l": "RSE - Wild Battle"
+  },
+  {
+   "f": "sm-battle-wild-pokemon.mp3",
+   "l": "SM - Battle Wild Pokémon"
+  },
+  {
+   "f": "swsh-battle-wild-pokemon.mp3",
+   "l": "SwSh - Battle Wild Pokémon"
+  },
+  {
+   "f": "xy-battle-wild-pokemon.mp3",
+   "l": "XY - Battle Wild Pokémon"
+  }
+ ]
+}
