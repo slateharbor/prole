@@ -9,11 +9,11 @@ Self-hosted sprite + icon mirror for the Pokerole DM Toolkit — so the apps don
 
 ## Serve via jsDelivr (a real CDN — NOT raw.githubusercontent, which rate-limits)
 ```
-https://cdn.jsdelivr.net/gh/countsacula-boop/prole@main/static/{number}.png
-https://cdn.jsdelivr.net/gh/countsacula-boop/prole@main/gen5ani/{slug}.gif
-https://cdn.jsdelivr.net/gh/countsacula-boop/prole@main/items/{filename}
+https://cdn.jsdelivr.net/gh/slateharbor/prole@main/static/{number}.png
+https://cdn.jsdelivr.net/gh/slateharbor/prole@main/gen5ani/{slug}.gif
+https://cdn.jsdelivr.net/gh/slateharbor/prole@main/items/{filename}
 ```
-Replace `USERNAME` once the repo is pushed. New files go live in a few minutes (jsDelivr cache).
+New files go live a few minutes after a push (jsDelivr cache).
 
 ## Publish updates
 Run `push-assets.bat` (one-click: add + commit + push).

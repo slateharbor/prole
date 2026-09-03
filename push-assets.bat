@@ -9,6 +9,6 @@ git commit -m "update assets" 2>nul
 git push -u origin main
 echo.
 echo ==========================================================
-if %errorlevel%==0 (echo  SUCCESS - your assets are live on GitHub!) else (echo  Something went wrong - screenshot this window for Claude.)
+if %errorlevel%==0 (echo  SUCCESS - your assets are live on GitHub!) else (echo  Something went wrong - check the output above.)
 echo ==========================================================
 pause
